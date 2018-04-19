@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is A673-B541
+
+ Directory of C:\Users\tunji\Desktop\Gold
+
+19/04/2018  00:52    <DIR>          .
+19/04/2018  00:52    <DIR>          ..
+19/04/2018  00:53                 0 new.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  1,793,714,688,000 bytes free
